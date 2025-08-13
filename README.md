@@ -10,8 +10,8 @@ Boston Housing dataset from scikit-learn, containing 13 key features like rooms 
 - XGBoost Regressor for regression modeling.
 
 ## Key Results and Findings
-- Training R²: (your value)
-- Test R²: (your value)
-- MAE: (your value)
+- Training R²: 0.9733
+- Test R²: 0.9116
+- MAE: 1.9923
 - Visualizations show predicted prices closely align with actual prices, indicating model effectiveness.
 
